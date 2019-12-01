@@ -1,0 +1,9 @@
+@font-face {
+    font-family: IBMPlexMono-Regular;
+    src: url(assets/fonts/IBM_Plex_Mono/IBMPlexMono-Regular.ttf), url(assets/fonts/IBM_Plex_Mono/IBMPlexMono-Bold.ttf), url(assets/fonts/IBM_Plex_Mono/IBMPlexMono-Light.ttf);
+}
+
+@font-face {
+    font-family: IBMPlexSans-Regular;
+    src: url(assets/fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf);
+}
