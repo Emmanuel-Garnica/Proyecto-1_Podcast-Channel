@@ -1,5 +1,9 @@
 $font-primary: 'IBMPlexMono-Regular',
-'IBMPlexSans-Regular';
+'sans-serif';
+$font-secondary: 'IBMPlexSans-Regular',
+'serif';
 $color-primary: #F1E42A;
-$color-hover: rgba(241, 228, 42, 0.3);
+$color-secondary:#878400;
+$color-auxiliar: white;
+$color-hover: linear-gradient(to bottom, #878400, #F1E42A);
 $border: 1px solid black;
